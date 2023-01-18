@@ -1,0 +1,36 @@
+_repo: The-West-Riding-Territorials-in-the-Great-War_69691
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Haig, Douglas Haig, Earl
+    aliases:
+    - Haig, Douglas, Sir
+    - Haig, Douglas Haig, 1st Earl
+    birthdate: 1861
+    deathdate: 1928
+    gutenberg_agent_id: '45343'
+    url: http://www.gutenberg.org/2009/agents/45343
+creator:
+  author:
+    agent_name: Magnus, Laurie
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '46044'
+    url: http://www.gutenberg.org/2009/agents/46044
+description: ''
+gutenberg_issued: '2023-01-02'
+identifiers:
+  gutenberg: '69691'
+language: en
+pgterms:marc905: 20190113033628magnus
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'United Kingdom: Kegan Paul, Trench, Trubner & Co Ltd,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The West Riding Territorials in the Great War
+url: http://www.gutenberg.org/ebooks/69691
